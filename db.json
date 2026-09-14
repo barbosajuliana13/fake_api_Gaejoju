@@ -1,5 +1,4 @@
 {
-  "videos": [
     {
       "id": 1,
       "titulo": "Linguagem C - Começando do absoluto zero",
@@ -15,5 +14,4 @@
       "titulo": "Linguagem C - Aula 1.2 - Aprenda a DEBUGAR em Linguagem C ",
       "youtubeUrl": "https://youtu.be/jV2OWKb2sUk?si=pUcVyvdRpJJMnX2c"
     }
-  ]
 }
