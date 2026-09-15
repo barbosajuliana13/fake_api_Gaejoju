@@ -1,5 +1,5 @@
 {
-    "Videos":[
+    "VIDEOS":[
     {
       "id": 1,
       "titulo": "Linguagem C - Começando do absoluto zero",
@@ -9,7 +9,7 @@
       "id": 2,
       "titulo": "Linguagem C - Aula 1.1 - Aprenda a usar o DEV C++",
       "youtubeUrl": https://youtu.be/QgE1zh0xCns?si=YA8LiC3KXB_hfmGv"
-    },
+    }
 
     ]
 }
